@@ -1,8 +1,6 @@
 # customer_banking
 module 3 challenge
 
-Sure, here's a README.md file for the customer banking code:
-
 # Customer Banking Application
 
 This is a Python-based customer banking application that allows users to create and manage savings and CD (Certificate of Deposit) accounts.
